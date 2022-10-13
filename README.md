@@ -1,5 +1,4 @@
-# chtp
-assembling tables from different excel files
+
 Для корректной работы скрипта требуеются подготовить файлы с правильным названием согласно прикрепленному списку:
 1) 2g_transmitters_all.xlsx
 2)2g_transmitters_new.xlsx
